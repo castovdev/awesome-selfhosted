@@ -2368,3 +2368,4 @@ Contributing guidelines can be found [here](https://github.com/awesome-selfhoste
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
 Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
 The list of authors can be found in the [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
+- [Castov](https://www.castov.com) - Privacy-first developer execution layer and offline toolbox with 61 client-side utilities, terminal CLI, and local MCP server for AI editors. ([Source Code](https://github.com/castovdev/castov)) `MIT` `Nodejs/Docker`
